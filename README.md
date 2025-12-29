@@ -45,7 +45,7 @@ Devcontainers are amazing for consistent dev environments, but setup is painful:
 ### Option 2: Clone & Select
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/devcontainer-starter-kit.git
+git clone https://github.com/jamesships/devcontainer-starter-kit.git
 cp -r devcontainer-starter-kit/templates/node-typescript/.devcontainer your-project/
 ```
 
